@@ -4,7 +4,12 @@ const images = [
     alt: "",
     desc: ""
   },
-  { 
+   { 
+    src: "2.png", 
+    alt: "",
+    desc: ""
+  },
+   { 
     src: "gun.png",   
     alt: "",
     desc: ""
